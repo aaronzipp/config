@@ -1,0 +1,3 @@
+sync_dir = "Onedrive/"
+threads = "4"
+ip_protocol_version = "1"
